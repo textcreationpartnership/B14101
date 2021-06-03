@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A foure-fould meditation, of the foure last things viz. 1. of the houre of death. 2. Day of iudgement. 3. Paines of hell. 4. Ioyes of heauen. Shewing the estate of the elect and reprobate. Composed in a diuine poeme by R:S. the author of S. Peters complaint.</title>
+            <author>Arundel, Philip Howard, Earl of, Saint, 1557-1595.</author>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14101</idno><idno type="EEBO-CITATION">99857064</idno>
+  <idno type="VID">154377</idno>
+  <idno type="EEBO-PROQUEST">2240897301</idno>
+  <idno type="STC">STC 13868.7</idno>
+  <idno type="STC">ESTC S121905</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857064e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1363:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A foure-fould meditation, of the foure last things viz. 1. of the houre of death. 2. Day of iudgement. 3. Paines of hell. 4. Ioyes of heauen. Shewing the estate of the elect and reprobate. Composed in a diuine poeme by R:S. the author of S. Peters complaint.</title>
+                  <author>Arundel, Philip Howard, Earl of, Saint, 1557-1595.</author>
+                  <author>Southwell, Robert, Saint, 1561?-1595, attributed name.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>By G. Eld: for Francis Burton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.S. = Robert Southwell, but in fact by Philip Howard, Earl of Arundel.</note>
+                  <note>In verse.</note>
+                  <note>The numerals "1. 2. 3. 4." and the words "houre .. heauen." are bracketed together in two columns on title page, separated by "of the".</note>
+                  <note>Signatures: [A]²  B-F⁴ G² .</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Identified as STC 22949 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Eschatology --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154377:1"/>
+            <pb facs="tcp:154377:1"/>
+            <p>A FOVRE-FOVLD Meditation, <hi>Of the foure last things: viz.</hi>
+               <list>
+                  <item>1. of the Houre of Death.</item>
+                  <item>2. of the Day of Iudgement.</item>
+                  <item>3. of the Paines of Hell.</item>
+                  <item>4. of the Ioyes of Heauen.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Shewing the estate of the Elect and Reprobate.</hi>
+            </p>
+            <p>Composed in a Diuine Poeme</p>
+            <p>By <hi>R. S. The author of S. Peters complaint.</hi>
+            </p>
+            <p>Imprinted at London by <hi>G. Eld:</hi> for <hi>Francis Burton.</hi> 1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154377:2"/>
+            <pb facs="tcp:154377:2"/>
+            <head>To the Right Worshipfull and <hi>Vertuous Gentleman, Mathew</hi> Saunders, Esquire.</head>
+            <head type="sub">W.H. wisheth, with long life, a prosperous achieuement of his good desires.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir; as I with great desire apprehended the least opportunity of manifesting towards your worthy selfe my sincere affection, so should I be very sory to pre<g ref="char:EOLhyphen"/>sent any thing vnto you, wherein I should growe offensiue, or willingly breed your least molestation: but these meditations, being Diuine and Religious (&amp; vpon mine owne knowledge, cor<g ref="char:EOLhyphen"/>respondent to your zealous inclination) emboldened me to recommend them to your view and censure, and therein to make knowne mine owne entire affection, and seruice<g ref="char:EOLhyphen"/>able loue towards you. Long haue they lien hidden in ob<g ref="char:EOLhyphen"/>scuritie, and happily had neuer seene the light, had not a meere accident conuayed them to my hands. But, hauing seriously perused them, loath I was that any who are reli<g ref="char:EOLhyphen"/>gious<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y affected, should be depriued of so great a comfort, as the due consideration thereof may bring vnto them. As for my selfe, Sir, the knowledge you haue of me, I hope will ex<g ref="char:EOLhyphen"/>cuse the coldnesse and sterilitie of my conceipts, who couet to illustrate my intire affectiō vnto your worship, by reall and approued actions, referring my selfe wholly in this, &amp; all other my indeuours, to your fauourable construction, who shall euer be of power, in the humblest seruices to command me.</p>
+            <closer>
+               <signed>Your Worships vnfained affectionate, W. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:154377:3"/>
+            <pb facs="tcp:154377:3"/>
+            <head>A Treatise of the houre of Death, <hi>the day of Iudgement, the paines</hi> of Hell, and the ioyes of Heauen.</head>
+            <div type="part">
+               <head>Of the houre of Death.</head>
+               <lg>
+                  <l>OH wretched man, which louest earthly things,</l>
+                  <l>And to this world, hast made thy selfe a thrall,</l>
+                  <l>Whose short delights, eternall sorrow brings,</l>
+                  <l>Whose sweet in show, in truth is bitter gall:</l>
+                  <l>Whose pleasures fade, ere scarce they be possest,</l>
+                  <l>And grieue them least, that do them most detest.</l>
+               </lg>
+               <lg>
+                  <l>Thou art not sure, one moment for to liue,</l>
+                  <l>And at thy death, thou leauest all behind,</l>
+                  <l>Thy lands, and goods, no succour then can giue,</l>
+                  <l>Thy pleasures past, are corsiues to thy mind.</l>
+                  <l>Thy worldly friends, can yeeld thee no reliefe,</l>
+                  <l>Thy greatest ioyes, will proue thy greatest griefe.</l>
+               </lg>
+               <pb facs="tcp:154377:4"/>
+               <lg>
+                  <l>The time will come, when death will thee assault,</l>
+                  <l>Conceiue it then, as present for to be,</l>
+                  <l>That thou in time, maist seeke to mend thy fault,</l>
+                  <l>And in thy selfe, thine error plainly see:</l>
+                  <l>Imagine now, thy course is almost spent,</l>
+                  <l>And marke thy friends, how deeply they lament.</l>
+               </lg>
+               <lg>
+                  <l>Thy wife doth howle, hir shrikes do pearse the skies,</l>
+                  <l>Thy childrens teares, their sorrowes do bewray,</l>
+                  <l>Thy kinsfolke waile, and weepe with wofull cries,</l>
+                  <l>Yet must thou die, and canst no longer stay:</l>
+                  <l>Lo here the ioyes, and treasures of thy heart,</l>
+                  <l>Thy race is runne, from them thou must depart.</l>
+               </lg>
+               <lg>
+                  <l>With paine thou liest, gasping now for breath,</l>
+                  <l>Past hope of life, or hope of any good,</l>
+                  <l>Thy face presents, a liuely forme of death,</l>
+                  <l>Thy heart becomes, all cold for want of blood:</l>
+                  <l>Thy nostrils fall, and gasping thou dost lie,</l>
+                  <l>Thy loathsome sight, thy friends begin to flie.</l>
+               </lg>
+               <pb facs="tcp:154377:4"/>
+               <lg>
+                  <l>Thy voyce doth yeeld, a hoarse and hollow sound,</l>
+                  <l>Thy dying head, doth yeeld to deadly sleepe,</l>
+                  <l>Thy senses all, with horror do abound,</l>
+                  <l>Thy feete do dye, and death doth vpward creepe:</l>
+                  <l>Thine eyes do stare, deepe shrunke into thy head,</l>
+                  <l>Thy iawes do fall, and shew thee almost dead.</l>
+               </lg>
+               <lg>
+                  <l>What doest thou thinke, now all thy senses faile,</l>
+                  <l>What doest thou say, by pleasure here is wonne,</l>
+                  <l>How doest thou now, thy passed life bewaile,</l>
+                  <l>How doest thou wish, thy course were now to runne?</l>
+                  <l>What wouldst thou do, thine ending life to saue,</l>
+                  <l>What wouldst thou giue, for that thou canst not haue?</l>
+               </lg>
+               <lg>
+                  <l>Thy body now, must from thy soule depart,</l>
+                  <l>Thy lands and goods, an other must possesse,</l>
+                  <l>Thy ioyes are past, on which thou sett'st thy heart,</l>
+                  <l>Thy paines to come, no creature can expresse:</l>
+                  <l>Lo now the fruite, and gaine of all thy sinne,</l>
+                  <l>Thus life must end, and endlesse life beginne.</l>
+               </lg>
+               <pb facs="tcp:154377:5"/>
+               <lg>
+                  <l>Thy former faults, are set before thine eyes,</l>
+                  <l>And monstrous shew, which seemd before so smal,</l>
+                  <l>To swallow thee, Dispaire in secret lyes,</l>
+                  <l>And al thy sinnes, with terror thee appall:</l>
+                  <l>With scalding sighes, they mooue thee now to mourne,</l>
+                  <l>And force thy soule, with sorrow for to burne.</l>
+               </lg>
+               <lg>
+                  <l>Thou wailest now, the pleasing of thy will,</l>
+                  <l>Thine ill got goods, do make thee to lament,</l>
+                  <l>Thy vaine delights, with anguish thee do fill,</l>
+                  <l>Thy wanton parts, thy conscience do torment:</l>
+                  <l>Thy sweetest sinnes, do bring thee bitter smart,</l>
+                  <l>Thy hainous faults, oppresse thy dying heart.</l>
+               </lg>
+               <lg>
+                  <l>With dreadfull feare, they shake thy guiltie minde,</l>
+                  <l>And bent to fight, with furie thee inclose,</l>
+                  <l>In worldly wealth, no rescue canst thou finde,</l>
+                  <l>But standst enclosd, amidst thy mortall foes:</l>
+                  <l>A thou sand deaths, would seeme a lesser paine,</l>
+                  <l>Then this estate, in which thou dost remaine.</l>
+               </lg>
+               <pb facs="tcp:154377:5"/>
+               <lg>
+                  <l>No tongue, no pen, no creature can bewray,</l>
+                  <l>How all thy sinnes, their festred rancour show,</l>
+                  <l>How sobbing sighes, with sorrow thee dismay,</l>
+                  <l>How blushing stormes, of griefe begin to blow:</l>
+                  <l>Thy ioyes are gone, which were thy God before,</l>
+                  <l>thy life is done, and shall returne no more.</l>
+               </lg>
+               <lg>
+                  <l>Now heauen to win, no paines thou wouldst refuse,</l>
+                  <l>Nor spare thy good, to ease thy wofull state,</l>
+                  <l>Of all thy sinnes, thy selfe thou dost accuse,</l>
+                  <l>And calst for grace, which seldom's giuen so late:</l>
+                  <l>For sinne thou didst, while life and power did last,</l>
+                  <l>And leauest now, when power to sinne is past.</l>
+               </lg>
+               <lg>
+                  <l>What booteth it, thy lewdnesse to lament,</l>
+                  <l>And leaue off sinne, when sinne forsaketh thee,</l>
+                  <l>What canst thou do, when all thy force is spent,</l>
+                  <l>Or will our Lord, with this appeased be?</l>
+                  <l>Thy life thou ledst, in seruice of his so,</l>
+                  <l>And seruest him, when life thou must forgo.</l>
+               </lg>
+               <pb facs="tcp:154377:6"/>
+               <lg>
+                  <l>Then had-I-wist, with sorrow thou doest say,</l>
+                  <l>But after-wits, repentance euer breed,</l>
+                  <l>The houre is come, thy debt thou now must pay,</l>
+                  <l>And yeeld to death, when life thou most doest need:</l>
+                  <l>Thy breath is stopt, in twinkling of an eye,</l>
+                  <l>Thy body dead, in vgly forme doth lye.</l>
+               </lg>
+               <lg>
+                  <l>Thy carcase now, like carrion men do shunne,</l>
+                  <l>Thy friends do hast, thy buriall to procure,</l>
+                  <l>Thy seruants seeke, away from thee to runne,</l>
+                  <l>Thy loathsome stench, no creature can endure:</l>
+                  <l>And they which tooke, in thee their most delight,</l>
+                  <l>Do hate thee most, and most abhorre thy sight.</l>
+               </lg>
+               <lg>
+                  <l>Thy flesh shall serue, for vermin as a pray,</l>
+                  <l>For pampering which, both sea &amp; land was sought,</l>
+                  <l>Thy body must, transformed be to clay,</l>
+                  <l>For whose delight, such costly clothes were bought:</l>
+                  <l>Thy pride in dust, thy glory in the graue,</l>
+                  <l>Thy flesh in earth, an ending now shall haue.</l>
+               </lg>
+               <pb facs="tcp:154377:6"/>
+               <lg>
+                  <l>Behold the place, in which thou must abide,</l>
+                  <l>Is loathsome, darke, vnsweet, and very straight,</l>
+                  <l>With rotten bones, beset on euery side,</l>
+                  <l>And crawling wormes, to feed on thee do waite:</l>
+                  <l>O hard exchange, O vile and hatefull place,</l>
+                  <l>Where earth and filth, thy carcase must imbrace.</l>
+               </lg>
+               <lg>
+                  <l>O wretched state, O most vnhappy man,</l>
+                  <l>Yet were it well, if nothing were behinde,</l>
+                  <l>If all might end, as here it first began,</l>
+                  <l>Some hope there were, an ending for to finde:</l>
+                  <l>For then as God, of nothing did thee frame,</l>
+                  <l>By course againe, thou shouldst become the same.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the day of Iudgement.</head>
+               <lg>
+                  <l>BVt liue thou must, a thousand deaths to die,</l>
+                  <l>And dying still, yet neuer wholy dead,</l>
+                  <l>Thou must appeare, before the Iudge on hie,</l>
+                  <l>And haue reward, as thou thy life hast lead:</l>
+                  <l>The time is come, thou canst no longer stay,</l>
+                  <l>The Iudge is set, and bootlesse is delay.</l>
+               </lg>
+               <pb facs="tcp:154377:7"/>
+               <lg>
+                  <l>Behold his power, whome here thou didst offend,</l>
+                  <l>For vaine delights, which were but meere deceipt,</l>
+                  <l>Behold on him, how Angels do attend,</l>
+                  <l>And all that hoast, doth for thy comming waight:</l>
+                  <l>Behold his throne, of glory in the skies,</l>
+                  <l>And marke how wrath, doth sparkle in his eyes.</l>
+               </lg>
+               <lg>
+                  <l>Lo this is he, which euery thing did make,</l>
+                  <l>Whom heauen &amp; earth, do praise both night &amp; day,</l>
+                  <l>Lo heere the looke, at which th'Angels quake,</l>
+                  <l>Lo here the Lord, whom all things do obey:</l>
+                  <l>His wil is law, and none can it withstand,</l>
+                  <l>His wrath consumes, and killeth out of hand.</l>
+               </lg>
+               <lg>
+                  <l>O wretched soule, how may his wrath be borne?</l>
+                  <l>Or can a worme, his fury now abide?</l>
+                  <l>Th' Angels al, do laugh thy sinnes to scorne,</l>
+                  <l>They hate thy sinne, and loath thee for thy pride?</l>
+                  <l>They shine with beames, farre brighter then the sunne,</l>
+                  <l>And cal to God that iustice may be done.</l>
+               </lg>
+               <pb facs="tcp:154377:7"/>
+               <lg>
+                  <l>Each creature cries, that punisht thou maist be,</l>
+                  <l>Whom in thy life, thou lewdly didst abuse,</l>
+                  <l>Both heauen and earth, are foes profest to thee,</l>
+                  <l>And all thy thoughts, of sinne do thee accuse:</l>
+                  <l>Thy words &amp; deeds, against thee now are brought</l>
+                  <l>&amp; all the faults, which sinne in thee hath wrought.</l>
+               </lg>
+               <lg>
+                  <l>Thou cited art, a iust accompt to make,</l>
+                  <l>How farre thou soughtst, thy selfe for to deny,</l>
+                  <l>How all thy lands, and wealth thou didst bestow,</l>
+                  <l>And with thy good, thy brothers need supplie:</l>
+                  <l>What care thou hadst, thy makers name to praise,</l>
+                  <l>What paines thou tookst, to walke in all his waies.</l>
+               </lg>
+               <lg>
+                  <l>The Iudge doth aske, how all thy time was spent,</l>
+                  <l>If from offence, thy senses thou didst keepe,</l>
+                  <l>If in thy soule, thou truly didst lament,</l>
+                  <l>And for thy sinnes, with harty sorrow weepe:</l>
+                  <l>If thou his feare, didst set before thine eyes,</l>
+                  <l>And for his loue, all worldly ioyes despise.</l>
+               </lg>
+               <pb facs="tcp:154377:8"/>
+               <lg>
+                  <l>If of thy foes, reuenge thou hast not sought,</l>
+                  <l>If to thy friends, thou neuer wert vnkinde,</l>
+                  <l>If earthly pompe, thou euer setst at nought,</l>
+                  <l>If secret hate, thou keepst not in thy minde:</l>
+                  <l>If thou alike, didst ioy and sorrow take,</l>
+                  <l>And with thy heart, all carnall lust forsake.</l>
+               </lg>
+               <lg>
+                  <l>Thy thoughts and words, the Iudge doth open lay,</l>
+                  <l>And asketh now, a iust accompt of all,</l>
+                  <l>And how thou didst, his motiues here obay,</l>
+                  <l>And for his grace, with earnest feruor call:</l>
+                  <l>If all thy life, on earth thou leadst vpright,</l>
+                  <l>And in his loue, didst settle thy delight.</l>
+               </lg>
+               <lg>
+                  <l>What canst thou plead, thy lewdnesse to excuse?</l>
+                  <l>When truth shall proue, in all thou didst offend,</l>
+                  <l>The Iudge is iust, thou canst not him refuse,</l>
+                  <l>Thy cause is nought, thou canst not it defend:</l>
+                  <l>To hope for helpe, (alas) it is but vaine,</l>
+                  <l>The time is past, no grace thou canst obtaine.</l>
+               </lg>
+               <pb facs="tcp:154377:8"/>
+               <lg>
+                  <l>Our Lord doth say, how couldst thou vse me so?</l>
+                  <l>Sith I to thee, both soule and body gaue,</l>
+                  <l>How durst thou seeke, to serue my mortall foe?</l>
+                  <l>Sith I did dye, thy soule from death to saue:</l>
+                  <l>I gaue thee all, and me thou didst detest,</l>
+                  <l>He gaue thee nought, yet wholy thee possest.</l>
+               </lg>
+               <lg>
+                  <l>Thy lands and goods, did from my goodnesse flow,</l>
+                  <l>Thy flesh and bones, I did of nothing frame,</l>
+                  <l>Both wealth and witte, I did on thee bestow,</l>
+                  <l>And gaue thee all, to praise my holy name:</l>
+                  <l>Yet with them all, thou didst against me fight,</l>
+                  <l>And fledst to him, that beares me most despight.</l>
+               </lg>
+               <lg>
+                  <l>When I did speake, thou seemedst deafe and dumbe,</l>
+                  <l>When he did call, thou mad'st him answer straight,</l>
+                  <l>He neuer staide, but in did quickly come,</l>
+                  <l>And I without, inforced was to waite:</l>
+                  <l>O thanklesse wretch, thou me shalt see no more,</l>
+                  <l>But dwell with him, that had thy heart before.</l>
+               </lg>
+               <pb facs="tcp:154377:9"/>
+               <lg>
+                  <l>Thou shalt with him, for euermore remaine,</l>
+                  <l>To whom thy selfe, for pleasure thou hast sold,</l>
+                  <l>His wil thou wroughtst, &amp; mine thou didst disdaine,</l>
+                  <l>His right thou art, I can thee not withhold:</l>
+                  <l>Thine owne delights, haue made thee his to be,</l>
+                  <l>The choice was thine, no wrong is done to thee.</l>
+               </lg>
+               <lg>
+                  <l>Then comes the diuell,
+<note place="margin">The diuels speech to Christ in the day of iudgment.</note> and to our Lord doth say,</l>
+                  <l>O righteous Iudge, this wretch I ought to haue,</l>
+                  <l>For in his life, he would not thee obay,</l>
+                  <l>But with his heart, himselfe to me he gaue:</l>
+                  <l>My precepts were, his practise day and night,</l>
+                  <l>And me to please, he made his whole delight.</l>
+               </lg>
+               <lg>
+                  <l>Himselfe he vow'd, to serue me all his dayes,</l>
+                  <l>His eyes were fix'd, vpon my councell still,</l>
+                  <l>His feete were bent, to walke in all my waies,</l>
+                  <l>His heart was set, for to performe my will:</l>
+                  <l>His life and lands; I drew him on to spend,</l>
+                  <l>In doing that, which might thee most offend.</l>
+               </lg>
+               <pb facs="tcp:154377:9"/>
+               <lg>
+                  <l>Thy power he scornde, and quite refusd thy grace,</l>
+                  <l>Thy bitter paines, he banisht from his eyes,</l>
+                  <l>Thy pretious bloud, he neuer would imbrace,</l>
+                  <l>Thy grieuous wounds, he lewdly did despise:</l>
+                  <l>Thy threats for sinne; he reckon'd as a iest,</l>
+                  <l>Thy words and will, in all he did detest.</l>
+               </lg>
+               <lg>
+                  <l>Thy endlesse ioyes, he seemed to disdaine,</l>
+                  <l>And followed that, in which he found delight,</l>
+                  <l>In seruing thee, he tooke not any paine,</l>
+                  <l>But all thy loue, with hate he did requite:</l>
+                  <l>What reason now, thy glory he should see,</l>
+                  <l>Of which he seem'd, so carelesse for to be?</l>
+               </lg>
+               <lg>
+                  <l>Thou didst him make, and on him all bestowe,</l>
+                  <l>I nothing gaue, nor him to being brought,</l>
+                  <l>Yet thee he left, to whom he loue did owe,</l>
+                  <l>And me he seru'd, who neuer gaue him ought:</l>
+                  <l>What wouldst thou more, thou vsest none to wrong,</l>
+                  <l>And he to me, in iustice doth belong.</l>
+               </lg>
+               <pb facs="tcp:154377:10"/>
+               <lg>
+                  <l>Behold O soule,
+<note place="margin">The soule refused of God.</note> how God doth thee refuse,</l>
+                  <l>And how his so, doth claime thee as his owne,</l>
+                  <l>Thy conscience doth, with terrour thee accuse,</l>
+                  <l>And reape thou must, as thou before hast sowne:</l>
+                  <l>The Lord of Lords, doth thee condemne to lie,</l>
+                  <l>In endlesse flames, where liuing thou must die.</l>
+               </lg>
+               <lg>
+                  <l>O wretched soule, what shall become of thee?</l>
+                  <l>What greater paine, can any heart deuise?</l>
+                  <l>Yet worse there is, if worse then it may be,</l>
+                  <l>Thy body must, to iudgement shortly rise:</l>
+                  <l>And both alike, in hell must suffer smart,</l>
+                  <l>As both on earth, in sinne had equall part.</l>
+               </lg>
+               <lg>
+                  <l>All sinners faine,
+<note place="margin">The signes before the day of iudgment.</note> would shunne this dreadfull day,</l>
+                  <l>And wish it were, without their perill past,</l>
+                  <l>The feare alone, must needs the heart dismay,</l>
+                  <l>The signes appeare, and on it commeth fast:</l>
+                  <l>Behold the sunne, is darke that shined bright,</l>
+                  <l>The Scarres do fall, the Moone hath lost her light.</l>
+               </lg>
+               <pb facs="tcp:154377:10"/>
+               <lg>
+                  <l>Behold how men, are wasted quite with wo,</l>
+                  <l>And cannot finde, a harbour now of rest,</l>
+                  <l>Behold on earth, how senselesse they do go,</l>
+                  <l>Their faces pale, their hearts with feare opprest:</l>
+                  <l>Behold each where, how beasts with terror crie,</l>
+                  <l>And marke how men, already seeme to die.</l>
+               </lg>
+               <lg>
+                  <l>Behold how bloud, the trees and branches sweat,</l>
+                  <l>And how each thing, doth tremble feare and quake,</l>
+                  <l>Behold the sea, against the land doth beat,</l>
+                  <l>And roaring lowd, doth force the earth to shake.</l>
+                  <l>Her surging mount, with swelling fury showes,</l>
+                  <l>And on the land, hir fish she foaming throwes.</l>
+               </lg>
+               <lg>
+                  <l>The clowdes like smoake, do vanish in the skies,</l>
+                  <l>The mountaines moue, the earth doth open wide,</l>
+                  <l>And blustering winds, with storme and tempest rise,</l>
+                  <l>The stoutest hearts, their faces seeke to hide:</l>
+                  <l>Both rich and poore, from citties now are fled,</l>
+                  <l>And all in caues, do runne to shrowd their head.</l>
+               </lg>
+               <pb facs="tcp:154377:11"/>
+               <lg>
+                  <l>Each liuing thing, for helpe doth cry and call,</l>
+                  <l>The sauage beasts, vnto the citties flie,</l>
+                  <l>The earth doth quake, the loftiestrowers fall,</l>
+                  <l>And beasts remaine, where men were wont to lie:</l>
+                  <l>The course begins, of nature here to faile,</l>
+                  <l>The heau'ns do mourne, &amp; al things els do waile.</l>
+               </lg>
+               <lg>
+                  <l>The Angell lowd, his dreadfull trumpet sounds,</l>
+                  <l>And sommons all, that euer life possest,</l>
+                  <l>The earth with wo, and terror all abounds,</l>
+                  <l>The dead arise, that long haue lien at rest:</l>
+                  <l>Both quicke and dead, assembled round do stand,</l>
+                  <l>And waite his will, whose comming is at hand.</l>
+               </lg>
+               <lg>
+                  <l>Behold how lowe, both heauen &amp; earth doth bow,</l>
+                  <l>And prostrate all, his fauour do desire,</l>
+                  <l>Behold how Christ, in glory commeth now,</l>
+                  <l>And in the aire, appeares a sea of fire:</l>
+                  <l>Th'earth for feare, doth tremble at his sight,</l>
+                  <l>The sea's dried vp, the hils are melted quite.</l>
+               </lg>
+               <pb facs="tcp:154377:11"/>
+               <lg>
+                  <l>The hardest rocks, are turned into dust,</l>
+                  <l>His furious wrath, no creature can abide,</l>
+                  <l>Their paines were sweet, which now are proued iust,</l>
+                  <l>And need not seeke, in corners them to hide:</l>
+                  <l>Our Lord rewards, where goodnesse he doth find,</l>
+                  <l>Thrise happy they, which haue a guiltlesse minde.</l>
+               </lg>
+               <lg>
+                  <l>O cursed soule, how art thou drownd in care,</l>
+                  <l>When all this sight, is set before thine eyes,</l>
+                  <l>Thy passing feare, no writing can declare,</l>
+                  <l>Thy body darke, like death doth seeme to rise:</l>
+                  <l>Thy hope is past, for easing of thy smart,</l>
+                  <l>Thy sinnes are pricks, to wound thy dying heart.</l>
+               </lg>
+               <lg>
+                  <l>Behold how thou, no fauour here canst get,</l>
+                  <l>Nor from thy foes, by any meanes escape,</l>
+                  <l>On right hand th'art, with all thy sinnes beset,</l>
+                  <l>Beneath thee hell, to swallow thee doth gape:</l>
+                  <l>The fearefull fiends, vpon thy left hand frowne,</l>
+                  <l>And lie in waite, to cast thee head-long downe.</l>
+               </lg>
+               <pb facs="tcp:154377:12"/>
+               <lg>
+                  <l>Aboue thee sits, the Iudge enflam'd with rage,</l>
+                  <l>Whom in thy life, thou lewdly didst offend,</l>
+                  <l>No meanes thou hast, his wrath for to asswage,</l>
+                  <l>His browes he doth, with angrie fury bend:</l>
+                  <l>And all the sinnes, of men he doth repeat,</l>
+                  <l>Which maketh then, his indignation great.</l>
+               </lg>
+               <lg>
+                  <l>Within thee gnawes, thy conscience voide of grace,</l>
+                  <l>And all the ill, to which thou didst consent,</l>
+                  <l>Without thee open, bookes declare thy case,</l>
+                  <l>Which damn'd thou doest, with bitter griefe lamēt:</l>
+                  <l>On euery side, the world doth thee affright,</l>
+                  <l>Which terror shews, &amp; flames all burning bright.</l>
+               </lg>
+               <lg>
+                  <l>If forward now, thou takest on thy way,</l>
+                  <l>Thou headlong doest, vnto thy ruine runne,</l>
+                  <l>The diuell doth watch, thy comming back to stay,</l>
+                  <l>No meane is left, misfortune for to shunne,</l>
+                  <l>What wilt thou do, inuiron'd thus with wo?</l>
+                  <l>For neither back, nor forward canst thou go.</l>
+               </lg>
+               <pb facs="tcp:154377:12"/>
+               <lg>
+                  <l>O wretched man, how heauie is thy heart?</l>
+                  <l>How doest thou wish, for that which cannot be?</l>
+                  <l>How doest thou sigh, and quake in euery part?</l>
+                  <l>How must thy friends, be seuered now from thee?</l>
+                  <l>Repleate with ioy, in glory they shall reigne,</l>
+                  <l>And full of griefe, thou torment must susteine.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the paines of Hell.</head>
+               <lg>
+                  <l>THe Iudges words, are like a burning fire,</l>
+                  <l>Which wasteth all, it commeth to imbrace,</l>
+                  <l>It booteth not, his iustice to require,</l>
+                  <l>The time is past, of calling now for grace:</l>
+                  <l>Behold the Iudge, doth thee condemne to hell,</l>
+                  <l>Where thou in paine, for sinne shalt euer dwell.</l>
+               </lg>
+               <lg>
+                  <l>O dolefull words, O most vnhappy wight,</l>
+                  <l>Thy head to hide, for mountaines thou doest call,</l>
+                  <l>Thy future paines, are present in thy sight,</l>
+                  <l>Thou cursest now, the causers of thy fall:</l>
+                  <l>Thy birth and life, too late thou doest repent,</l>
+                  <l>Thou wailest both, but doest in vaine lament.</l>
+               </lg>
+               <pb facs="tcp:154377:13"/>
+               <lg>
+                  <l>No tongue that paine, no creature can expresse,</l>
+                  <l>Those deadly griefes, which alwaies thou shalt tast,</l>
+                  <l>The longer time, thy comfort is the lesse,</l>
+                  <l>Thy hope decayes, thy sorrows neuer wast:</l>
+                  <l>Oh bitter sweet, which earthly pleasures breed,</l>
+                  <l>This liuing death, all torments doth exceed.</l>
+               </lg>
+               <lg>
+                  <l>Thy wanton eyes, those hellish monsters see,</l>
+                  <l>Whose bloudy mindes, thy ruine did conspire,</l>
+                  <l>Whose neesings seeme, like lightnings for to be,</l>
+                  <l>Whose vglie mouth, doth cast out flames of fire:</l>
+                  <l>whose nostrils smoake, whose eies are glowing red,</l>
+                  <l>whose whole delight, by others smart is bred.</l>
+               </lg>
+               <lg>
+                  <l>Thy wretched eares, which harkened vnto lies,</l>
+                  <l>May heare how fiends, do rage with great despight,</l>
+                  <l>No voice is there, but shrikes and hideous cries,</l>
+                  <l>Which able are, the stoutest heart t'affright:</l>
+                  <l>Where some blaspheme, and some their states be<g ref="char:EOLhyphen"/>waile,</l>
+                  <l>Where others cursse, and neuer cease to raile.</l>
+               </lg>
+               <pb facs="tcp:154377:13"/>
+               <lg>
+                  <l>Thy dainty nose, which had perfumes each day,</l>
+                  <l>A loathsome stench, for euer must abide,</l>
+                  <l>Which riseth vp, from damned bodies aye,</l>
+                  <l>That heaped there, doe smell on euery side:</l>
+                  <l>Lo here the sweet, thy smelling to content,</l>
+                  <l>No worldly thing, can yeeld so foule a sent.</l>
+               </lg>
+               <lg>
+                  <l>Thy curious taste, doth hunger now sustaine,</l>
+                  <l>Which did in meate, such rare deuises craue,</l>
+                  <l>With burning thirst, thou sufferest grieuous paine,</l>
+                  <l>And yet to coole, no water canst thou haue:</l>
+                  <l>No drop is there, thy thirsting for to ease,</l>
+                  <l>Nor hope of helpe, that may thy griefe appease.</l>
+               </lg>
+               <lg>
+                  <l>Thy feeling yet, the greatest paine doth beare,</l>
+                  <l>When firie flames, do all thy parts torment,</l>
+                  <l>And shiuering cold, thou also findest there,</l>
+                  <l>With gnashing teeth, that makes thee to lament:</l>
+                  <l>Thy teares with heate, in streames are daily shed,</l>
+                  <l>Thy teeth with cold, do chatter in thy head.</l>
+               </lg>
+               <pb facs="tcp:154377:14"/>
+               <lg>
+                  <l>If for a while, no creature can indure,</l>
+                  <l>In earthly fire, one member for to be,</l>
+                  <l>What torment do, thy passed ioyes procure,</l>
+                  <l>In endlesse flames, thy body for to see?</l>
+                  <l>what griefe, what paine, what sorrow may it breed,</l>
+                  <l>which doth our earthly flames, so farre exceed?</l>
+               </lg>
+               <lg>
+                  <l>The diuels with flouts, do laugh thee now to scorne,</l>
+                  <l>Thy flesh and bones, a sunder they do teare:</l>
+                  <l>Thy cursed sinne, with cruell whip is torne,</l>
+                  <l>Thy wofull heart, is filled full with feare:</l>
+                  <l>With inward wo, thy soule is sore opprest,</l>
+                  <l>With outward paine, thy body finds no rest.</l>
+               </lg>
+               <lg>
+                  <l>Thy torments strange, doe breed thee bitter griefe,</l>
+                  <l>Which rests in thy, imagination still,</l>
+                  <l>Thy owne conceit, which now should yeeld releefe,</l>
+                  <l>Doth labour more, with sorrow thee to fill:</l>
+                  <l>Thou think'st on that, thou wouldest most eschew,</l>
+                  <l>griefe do thy thoughts, &amp; thoughts thy grief renew.</l>
+               </lg>
+               <pb facs="tcp:154377:14"/>
+               <lg>
+                  <l>Thy memory now, recalles vnto thy minde,</l>
+                  <l>The short delight, of all thy pleasure past,</l>
+                  <l>It wounds thy heart, these paines for them to finde,</l>
+                  <l>Which grieuous are, and shall for euer last:</l>
+                  <l>Thy desperate case, no comfort can obtaine,</l>
+                  <l>Thy passed ioyes, increase thy present paine.</l>
+               </lg>
+               <lg>
+                  <l>Thy vnderstanding, doth thy misery shew,</l>
+                  <l>And telleth thee, thou art in Sathans iawes,</l>
+                  <l>For short delights, thy losse it makes thee know,</l>
+                  <l>And in thy soule, the worme of conscience gnawes:</l>
+                  <l>Those fading ioyes, in rage thou doest defie,</l>
+                  <l>And in dispaire, they make thee thus to crie.</l>
+               </lg>
+               <lg>
+                  <l>My former ioy, a shadow was indeed,</l>
+                  <l>Which did not last, but passed quite away,</l>
+                  <l>My present paine, all measure doth exceed,</l>
+                  <l>No wit, no arte, my torments can bewray:</l>
+                  <l>A time there was, true blisse for to obtaine,</l>
+                  <l>But time's now past, and labour's now in vaine.</l>
+               </lg>
+               <pb facs="tcp:154377:15"/>
+               <lg>
+                  <l>O cursed time,
+<note place="margin">The com<g ref="char:EOLhyphen"/>plaint of a sinner in Hell.</note> in which I time forsooke,</l>
+                  <l>A little paine, had ridde me of this wo,</l>
+                  <l>O cursed ioyes, in which I pleasure tooke,</l>
+                  <l>For pleasing you, all pleasure I forgo:</l>
+                  <l>And here in hell, each kinde of paine I finde,</l>
+                  <l>Which wastes my flesh, and wounds my wofull minde.</l>
+               </lg>
+               <lg>
+                  <l>If I my sinnes, with sorrow had confest,</l>
+                  <l>They had to me, beene cleane remitted all,</l>
+                  <l>In steed of griefe, I glorie had possest,</l>
+                  <l>If I for grace, had bent my minde to call:</l>
+                  <l>O cursed wretch, that for so small a paine,</l>
+                  <l>Refusing blisse, in torments must remaine.</l>
+               </lg>
+               <lg>
+                  <l>The greatestioyes, that do on earth abound,</l>
+                  <l>Can in the world, not yeeld so much delight,</l>
+                  <l>As here by paine, is in one moment found,</l>
+                  <l>Whose blasing wo, is present still in sight:</l>
+                  <l>What frensie then, bewitcht my wretched heart,</l>
+                  <l>For fained ioyes, to suffer endlesse smart.</l>
+               </lg>
+               <pb facs="tcp:154377:15"/>
+               <lg>
+                  <l>My parents were, the causers of my wo,</l>
+                  <l>And all the meat, on which I euer fed,</l>
+                  <l>My carnall life, hath proued my greatest fo,</l>
+                  <l>And vnto me, this miserie now hath bred:</l>
+                  <l>Accurst be all, that hath my ruine wrought,</l>
+                  <l>And euery meane, which me to liuing brought.</l>
+               </lg>
+               <lg>
+                  <l>Thrise happy they, on earth that neuer were,</l>
+                  <l>Their state is blest, which neuer come to liue,</l>
+                  <l>O blessed wombs, that children neuer beare,</l>
+                  <l>O happy brests, that neuer suck did giue:</l>
+                  <l>O deadly paine, O most vnhappy place,</l>
+                  <l>O cursed wretch, whom all mishaps imbrace.</l>
+               </lg>
+               <lg>
+                  <l>Let's heare thy plaints, in this infernall place,</l>
+                  <l>Where Scorpions sting, &amp; Snakes do thee torment,</l>
+                  <l>Where hammers beat, and diuels do roaring make,</l>
+                  <l>Where hope is past, and damned soules lament:</l>
+                  <l>Where wormes do eraule, &amp; vgly serpents creepe</l>
+                  <l>where paines aboūd, &amp; sorrows make thee weep.</l>
+               </lg>
+               <pb facs="tcp:154377:16"/>
+               <lg>
+                  <l>Against our Lord, thou ragest with despight,</l>
+                  <l>And him thou doest, with cursing words defie,</l>
+                  <l>Thou barred art, for seeing any light,</l>
+                  <l>And while he liues, thou must for euer die:</l>
+                  <l>Lo here the fruite, which earthly pleasures bring,</l>
+                  <l>Thy paines agree, in measure with thy sinne.</l>
+               </lg>
+               <lg>
+                  <l>Thy sweet delights, are come to wo and wrack,</l>
+                  <l>Thy happie state, into a wretched case,</l>
+                  <l>Thy greedy minde, is answered here with lack,</l>
+                  <l>Thy lecherous armes, do vglie fiends imbrace:</l>
+                  <l>Thy vexed soule, now howles for deadly paine,</l>
+                  <l>Thy heauie heart, doth suffer much disdaine.</l>
+               </lg>
+               <lg>
+                  <l>Thou findest smart, in steed of pleasant game,</l>
+                  <l>Thy dainty wines, are turn'd to bitter gall,</l>
+                  <l>Thy costly cloathes, are chang'd to burning flame,</l>
+                  <l>Thy loftie pride, hath now a loathsome fall:</l>
+                  <l>Thou nothing hast, which may afford thee ease,</l>
+                  <l>And feelest all, that may thee most displease.</l>
+               </lg>
+               <pb facs="tcp:154377:16"/>
+               <lg>
+                  <l>Yet chieflie one, which all doth farre exceed,</l>
+                  <l>And as it is, none rightly can esteeme,</l>
+                  <l>It greeues thee most, and makes thy heart to bleed,</l>
+                  <l>And ioynde with it, the other nothing seeme:</l>
+                  <l>Then iudge what paine, this torture brings to thee</l>
+                  <l>When match to it, all, nothing seemes to bee.</l>
+               </lg>
+               <lg>
+                  <l>Thy senses feele, for euery sinne a paine,</l>
+                  <l>So rated there, as here thou took'st delight,</l>
+                  <l>Aud now for that, our Lord thou didst disdaine,</l>
+                  <l>Thou banisht art, for euer from his sight:</l>
+                  <l>The paine of sense, small torment thou doest finde,</l>
+                  <l>When thou this losse, doest call into thy minde.</l>
+               </lg>
+               <lg>
+                  <l>O grieuous losse, which cannot be exprest,</l>
+                  <l>O cause of griefe, and spring of deadly wo,</l>
+                  <l>Thy soule hath lost, the center of her rest,</l>
+                  <l>Thy hope, thy health, thy life, thou must forgo:</l>
+                  <l>No paine, nor losse, with this we may compare,</l>
+                  <l>It passeth all, and none it can declare.</l>
+               </lg>
+               <pb facs="tcp:154377:17"/>
+               <lg>
+                  <l>From hope of ioyes, this is an endlesse barre,</l>
+                  <l>And greatest plague, which God on sinne bestowes,</l>
+                  <l>Compar'd with this, all torments pleasant are,</l>
+                  <l>And all thy woes, an easie burthen showes:</l>
+                  <l>The bitterst paines, seeme trifles in thine eyes,</l>
+                  <l>Compar'd with this, the flames thou dost despise.</l>
+               </lg>
+               <lg>
+                  <l>What wo, what paine, what smart can be rehearst?</l>
+                  <l>What wanteth now, on thee for to be laid?</l>
+                  <l>With swords of griefe, thy heart is daily pearst,</l>
+                  <l>With dreadfull feares, thy conscience is dismaide:</l>
+                  <l>Thy soule hath lost, what most she doth desire,</l>
+                  <l>Thy body burnes, in flames of endlesse fire.</l>
+               </lg>
+               <lg>
+                  <l>And if thy paine, an ending might obtaine,</l>
+                  <l>When yeares there were, as many thousands runne,</l>
+                  <l>As on the earth, haue lighted drops of raine,</l>
+                  <l>Since first of all, this wretched world begunne:</l>
+                  <l>Some helpe this hope, might bring vnto thy mind,</l>
+                  <l>When hope were least, an end at last to finde.</l>
+               </lg>
+               <pb facs="tcp:154377:17"/>
+               <lg>
+                  <l>But of them all, no ease nor end thou hast,</l>
+                  <l>Which in thy soule, some comfort might procure,</l>
+                  <l>No time will helpe, thy sorrowes for to wast,</l>
+                  <l>While God is God, thy torments shall indure:</l>
+                  <l>The paine in truth, is more then can be told,</l>
+                  <l>The sight in thought, no creature can behold.</l>
+               </lg>
+               <lg>
+                  <l>O dying life, O hell of endlesse smart,</l>
+                  <l>Which nature hates, and all things do detest,</l>
+                  <l>O liuing death, no life nor death thou art,</l>
+                  <l>For death hath end, and life hath somtimes rest:</l>
+                  <l>The worst of both, our Lord hath put in thee,</l>
+                  <l>That neither rest, nor end might euer be.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the ioyes of Heauen.</head>
+               <lg>
+                  <l>O damned soule, why doest thou roare and crie?</l>
+                  <l>What deadly griefes, thee daily do oppresse?</l>
+                  <l>But lift a while, thy cursed eyes on hye,</l>
+                  <l>And see what ioyes, the blessed there possesse:</l>
+                  <l>That by the sight, thy torments may increase,</l>
+                  <l>And for thy life, thy sorrowes neuer cease.</l>
+               </lg>
+               <pb facs="tcp:154377:18"/>
+               <lg>
+                  <l>And first behold, the beauty of the place,</l>
+                  <l>Where all the Saints, with Christ in glory raigne,</l>
+                  <l>What peece is there, that's mixed with disgrace,</l>
+                  <l>Where it is free, from taste of any paine?</l>
+                  <l>Where great rewards, attend on good deserts,</l>
+                  <l>And all delight, possesseth faithfull hearts.</l>
+               </lg>
+               <lg>
+                  <l>O wicked wretch this Citty now behold,</l>
+                  <l>Which doth surpasse, the reach of any thought,</l>
+                  <l>The gates are pearle, the streetes of finest gold,</l>
+                  <l>With precious stones, the walls are wholy wrought:</l>
+                  <l>Of Sunne or Moone, it needeth not the light,</l>
+                  <l>For euer there, the Sunne is shining bright.</l>
+               </lg>
+               <lg>
+                  <l>And from his seat, a Christall riuer flowes,</l>
+                  <l>Where life doth runne, and pleasure alwaies springs,</l>
+                  <l>On either side, a tree of comfort growes,</l>
+                  <l>Which sauing health, to euery nation brings:</l>
+                  <l>It worketh rest, and stinteth worldly strife,</l>
+                  <l>It killeth death, aad bringeth endlesse life.</l>
+               </lg>
+               <pb facs="tcp:154377:18"/>
+               <lg>
+                  <l>This goodly place, all beauty doth surmount</l>
+                  <l>And all this world, in largenesse passeth farr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>The earth it selfe, for bignesse in account,</l>
+                  <l>Not equall is, vnto the smallest starre:</l>
+                  <l>O worthy place, whose glory doth excell,</l>
+                  <l>Thrise happy they, that here attaine to dwell.</l>
+               </lg>
+               <lg>
+                  <l>No Saint is here, but brighter seemes to be,</l>
+                  <l>Then Sunne or Moone, whose brightnesse wonder breed,</l>
+                  <l>What glory then, so many Saints to see?</l>
+                  <l>Which all the starres, in number farre exceed:</l>
+                  <l>O glorious place, where glory doth abound,</l>
+                  <l>O blessed state, where blisse is alwaies found.</l>
+               </lg>
+               <lg>
+                  <l>Arch-Angels are, but vnder seruants here,</l>
+                  <l>And Angels doe, their makers will obay,</l>
+                  <l>The powers with ioy, in triumph do appeare,</l>
+                  <l>The vertues shine, the thrones their beames display:</l>
+                  <l>The Cherubines, do yeeld a glorious sight,</l>
+                  <l>The Seraphines, with loue are burning bright.</l>
+               </lg>
+               <pb facs="tcp:154377:19"/>
+               <lg>
+                  <l>The Patriarches here, haue ioy for all their paine,</l>
+                  <l>True Prophets are, with endlesse glory blest,</l>
+                  <l>The holy Martyrs, worthy crownes obtaine,</l>
+                  <l>The godly finde, a heauen of happy rest:</l>
+                  <l>To all their ioyes, in glory they are met,</l>
+                  <l>And now possesse, what long they sought to get.</l>
+               </lg>
+               <lg>
+                  <l>These sacred Saints, remaine in perfect peace,</l>
+                  <l>Which Christ confest, and walked in his wayes,</l>
+                  <l>They swim in blisse, which now shall neuer cease,</l>
+                  <l>And singing all, his name for euer praise:</l>
+                  <l>Before his throne, in white they daily stand,</l>
+                  <l>And carry palmes of triumph in their hand.</l>
+               </lg>
+               <lg>
+                  <l>Each in their order, seemlie to behold,</l>
+                  <l>Are plac'd, by that all-ruling power diuine;</l>
+                  <l>But how distinguish'd, is not to be told;</l>
+                  <l>For all as different starres in glory shine.</l>
+                  <l>The mansions are, for greater, and for lesse▪</l>
+                  <l>Where all of ioy, the perfect state possesse.</l>
+               </lg>
+               <pb facs="tcp:154377:19"/>
+               <lg>
+                  <l>The twelue Apostles, earst held as a scome,</l>
+                  <l>Who here below, left all, to beare the crosse,</l>
+                  <l>Exalted are, the high heauens to adome,</l>
+                  <l>And rule with Christ, for whom they suffered losse.</l>
+                  <l>Vpon twelue thrones, they now in glory sitte;</l>
+                  <l>And iudge the tribes, as teacheth holy writte.</l>
+               </lg>
+               <lg>
+                  <l>Aboue them all, and in an higher throne,</l>
+                  <l>Our Sauiour in, his man-hood sitteth here,</l>
+                  <l>From whom proceeds all perfect ioy alone,</l>
+                  <l>And in this place, all glory doth appeare:</l>
+                  <l>The Saints delight, conceiued cannot be,</l>
+                  <l>When they a man, the Lord of Angels see.</l>
+               </lg>
+               <lg>
+                  <l>They rauisht are, with ioy in seeing this,</l>
+                  <l>How Christ our Lord, the chiefest place obtaines,</l>
+                  <l>They now behold, the sea of endlesse blisse,</l>
+                  <l>And ioy to marke, how he in triumph raignes:</l>
+                  <l>What vnto men, more honour can besall,</l>
+                  <l>Then here to see, a man the head of all?</l>
+               </lg>
+               <pb facs="tcp:154377:20"/>
+               <lg>
+                  <l>More ioy it yeelds, then any can deuise,</l>
+                  <l>And greater blisse, then can in word be told,</l>
+                  <l>His pearcing beames, do dazell all their eyes,</l>
+                  <l>His brightnesse scarce, the Angels can behold:</l>
+                  <l>The Saints in him, their wished comfort finde,</l>
+                  <l>And now enioy, what most contents their minde.</l>
+               </lg>
+               <lg>
+                  <l>To thinke on this, it passeth humane wit,</l>
+                  <l>The more we thinke, the lesse we come to know,</l>
+                  <l>He doth vpon, his fathers right hand sit,</l>
+                  <l>And all the Saints, their humble seruice show:</l>
+                  <l>His sight to them, doth endlesse comfort bring,</l>
+                  <l>And they to him, all praise for euer sing.</l>
+               </lg>
+               <lg>
+                  <l>O worthy place, where such a Lord is chiefe,</l>
+                  <l>O glorious Lord, which princely seruants keepes,</l>
+                  <l>O happy Saints, which neuertast of griefe,</l>
+                  <l>O blessed state, where malice euer sleepes:</l>
+                  <l>No one is here, of base or meane degree,</l>
+                  <l>But all are knowne, the sonnes of God to bee.</l>
+               </lg>
+               <pb facs="tcp:154377:20"/>
+               <lg>
+                  <l>What higher place, can any Prince attaine,</l>
+                  <l>Then to be sonne, to him which rules aboue?</l>
+                  <l>This state is no wayes, subiect to disdaine,</l>
+                  <l>But in their mindes like brethern they doeloue:</l>
+                  <l>No place is left, for any hate or feare,</l>
+                  <l>But here they all, one heart and soule do beare.</l>
+               </lg>
+               <lg>
+                  <l>O happy peace, where discord neuer fights,</l>
+                  <l>The ioyes of all, are found in euery breast,</l>
+                  <l>For each as much, in others ioyes delights,</l>
+                  <l>As if alone, it in himselfe did rest:</l>
+                  <l>In all their ioyes, no difference is there knowne,</l>
+                  <l>For each accompts, them all to be his owne.</l>
+               </lg>
+               <lg>
+                  <l>And those they tast, wherewith our Lord abounds,</l>
+                  <l>And as theyr owne, his glory do they take,</l>
+                  <l>Vnto themselues, by vnion it redounds,</l>
+                  <l>And all his ioyes, their glory perfect make:</l>
+                  <l>So fast are knit, the members to the head,</l>
+                  <l>As ouer them his ioy is wholly spread.</l>
+               </lg>
+               <pb facs="tcp:154377:21"/>
+               <lg>
+                  <l>What ioy is left, which here they doe not finde?</l>
+                  <l>What greater blisse, what pleasure may be more?</l>
+                  <l>What comfort may, conceiued be in minde?</l>
+                  <l>Which hath not beene, recited here before.</l>
+                  <l>Yet one delight, behinde as yet remaines,</l>
+                  <l>Which one is all, and all in it containes.</l>
+               </lg>
+               <lg>
+                  <l>They face to face, doe God Almightie see,</l>
+                  <l>And all in him, as in a perfect glasse:</l>
+                  <l>No good there is, but here is found to be,</l>
+                  <l>And all delights, his visage doth surpasse:</l>
+                  <l>Each sight doth yeeld, the heart all perfect rest,</l>
+                  <l>Because no good, without him is possest.</l>
+               </lg>
+               <lg>
+                  <l>He present, past, all future things doth show,</l>
+                  <l>And therefore rest, their vnderstanding heare,</l>
+                  <l>There's nothing needfull, but in him they know,</l>
+                  <l>And to their eyes, it plainly doth appeare:</l>
+                  <l>They now obtaine, what long they sought to get,</l>
+                  <l>And all their thoughts, are wholy on him set.</l>
+               </lg>
+               <pb facs="tcp:154377:21"/>
+               <lg>
+                  <l>Their will doth last, in louing of this sight,</l>
+                  <l>In which consists, all good that can be thought,</l>
+                  <l>They here haue fix'd, their loue and whole delight,</l>
+                  <l>And neuer will, from louing this be brought:</l>
+                  <l>For here all good, and goodnesse doth abound,</l>
+                  <l>And neuer can, without this good be found.</l>
+               </lg>
+               <lg>
+                  <l>There whole desire, from hence doth neuer part,</l>
+                  <l>But setled here, for euer doth abide,</l>
+                  <l>This sight doth fill, the mouth of euery heart,</l>
+                  <l>And nothing leaues, for them to wish beside:</l>
+                  <l>Without desire, desire, content remaines,</l>
+                  <l>And her desire, with full delight obtaines.</l>
+               </lg>
+               <lg>
+                  <l>There faith beholds, her best beloued guest,</l>
+                  <l>And her beleefe, this sight doth here fulfill,</l>
+                  <l>There constant hope, her hope hath now possest,</l>
+                  <l>And him enioyes, for whom she hoped still:</l>
+                  <l>There charitie, not perfect full before,</l>
+                  <l>To perfect state, this vision doth restore.</l>
+               </lg>
+               <pb facs="tcp:154377:22"/>
+               <lg>
+                  <l>O glorious sight, O sunne of endles blisse,</l>
+                  <l>Which neuer weares, nor seemeth for to fade,</l>
+                  <l>Who euer saw, so faire a sight as this?</l>
+                  <l>What may be thought, that may not here be had?</l>
+                  <l>They liue in ioy, which now shall neuer wast,</l>
+                  <l>Who euer did, such hopes of comfort taste?</l>
+               </lg>
+               <lg>
+                  <l>They here possesse, what may content them most,</l>
+                  <l>And nothing want, which perfect blisse may bring,</l>
+                  <l>With all delight, here breathes the holy Ghost,</l>
+                  <l>Which alwayes makes, a fresh and endlesse spring▪</l>
+                  <l>No day is there, no morning, noone, nor night,</l>
+                  <l>But euer one, and alwayes shining bright.</l>
+               </lg>
+               <lg>
+                  <l>O blessed ioyes, which all these soules possesse,</l>
+                  <l>O happy fruite, which Christ for them hath wonne,</l>
+                  <l>And in degree, the bodies finde no lesse,</l>
+                  <l>But shine with beames, farre brighter then the sun:</l>
+                  <l>Not subiect more, to sicknesse, griefe, or paine,</l>
+                  <l>In glory now, immortall they remaine,</l>
+               </lg>
+               <pb facs="tcp:154377:22"/>
+               <lg>
+                  <l>And perfect ioyes, each sense in priuate findes,</l>
+                  <l>Their eyes behold, that passing glorious sight,</l>
+                  <l>Where nothing wants, for to content their mindes,</l>
+                  <l>And all things are, which may their eyes delight.</l>
+                  <l>Their eares are fed, with hearing sweetest sounds,</l>
+                  <l>And them to please, al musicke here abounds.</l>
+               </lg>
+               <lg>
+                  <l>From songs of praise, the Saints no moment spare</l>
+                  <l>No teares are seene, nor any eye to weepe,</l>
+                  <l>But in this place, the musicke is so rare,</l>
+                  <l>As halfe a sound, would bring all hearts asleepe.</l>
+                  <l>And euery sense, a proper pleasure takes,</l>
+                  <l>Which ioyn'd in one, their glory perfect makes.</l>
+               </lg>
+               <lg>
+                  <l>No eye hath seene, what ioy the Saints obtaine,</l>
+                  <l>Nor eares haue heard, what comforts are possest,</l>
+                  <l>No heart can thinke, in what delight they raigne,</l>
+                  <l>Nor pen expresse, this happy port of rest:</l>
+                  <l>Where pleasures flowe, and griefe is neuer seene,</l>
+                  <l>Where good abounds, and ill is banisht cleene.</l>
+               </lg>
+               <pb facs="tcp:154377:23"/>
+               <lg>
+                  <l>And of these ioyes, no creature end shall see,</l>
+                  <l>The longer time, the sweeter they doe show,</l>
+                  <l>Whiles God endures, they ended cannot be,</l>
+                  <l>And neuer waste, but alwayes seeme to grow:</l>
+                  <l>When worlds are worne, &amp; many millions past,</l>
+                  <l>They new begin, and shall for euer last.</l>
+               </lg>
+               <lg>
+                  <l>O seat of ioy, where endlesse ioy remaines,</l>
+                  <l>O heauen of blisse, where none do suffer wrack,</l>
+                  <l>O happy house, which all delight containes,</l>
+                  <l>O blessed state, which neuer feeleth lack.</l>
+                  <l>O goodly tree, which fruites doth euer beare,</l>
+                  <l>O quiet state, which dangers need not feare.</l>
+               </lg>
+               <lg>
+                  <l>O mixture pure, which basest drosse refines,</l>
+                  <l>O pleasant place, which onely comfort brings,</l>
+                  <l>O ioyfull sunne, where glory alwayes shines,</l>
+                  <l>O fertill soile, where pleasure alwaies springs:</l>
+                  <l>O glorious soules, O bodies highly blest,</l>
+                  <l>O sea of good, and of all good the best.</l>
+               </lg>
+               <pb facs="tcp:154377:23"/>
+               <lg>
+                  <l>O damned wretch, the thought of this alone,
+<note place="margin">A speech of the dam<g ref="char:EOLhyphen"/>ned.</note>
+                  </l>
+                  <l>Oppresseth thee, with heapes of deadly care,</l>
+                  <l>And sighing now, in spirit thou do'st grone,</l>
+                  <l>When with their blisse, thy woe thou do'st compare:</l>
+                  <l>Thy grieuous losse, doth grudg thy wretched heart,</l>
+                  <l>And it with griefe, redoubles all thy smart.</l>
+               </lg>
+               <lg>
+                  <l>If all the world, by conquest thou hadst wonne,</l>
+                  <l>A trifle now, thou thinkest all to giue,</l>
+                  <l>That on the earth, thy race were not begonne,</l>
+                  <l>And thou againe, were suffered here to liue:</l>
+                  <l>An other course, thou would'st then vndertake,</l>
+                  <l>And seruing god, thy carnall lusts forsake.</l>
+               </lg>
+               <lg>
+                  <l>The straightest life, no paines thou would'st esteeme,</l>
+                  <l>Thy praying would, a passing ioy appeare,</l>
+                  <l>Thy fasting oft, no trouble then would seeme,</l>
+                  <l>Nor any griefe, the hardest torment here:</l>
+                  <l>A ioy thou would'st, accompt the greatest paine,</l>
+                  <l>To scape from hell, and endles blisse obtaine.</l>
+               </lg>
+               <pb facs="tcp:154377:24"/>
+               <lg>
+                  <l>Then must I call, O wretched man to thee,</l>
+                  <l>And end where first, I did beginne to write,</l>
+                  <l>That all these ioyes, and paines, which thou dost see,</l>
+                  <l>May moue thy minde, to leade thy life arighte:</l>
+                  <l>Thy hart will melt, to thinke vppon thy case,</l>
+                  <l>If there be left, but halfe a sparke of grace.</l>
+               </lg>
+               <lg>
+                  <l>Thou findest here, what thou wilt wish at last,</l>
+                  <l>And that accompt, which none can euer shunne,</l>
+                  <l>Then frame thy life, before the time be past,</l>
+                  <l>As thou wilt wish, that thou in time hadst done:</l>
+                  <l>Least thou in vaine, dost waile thy wretched state,</l>
+                  <l>When time is past, and wailing comes too late.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
